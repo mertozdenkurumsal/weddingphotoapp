@@ -32,7 +32,7 @@ const Navbar = ({
                 className="flex items-center gap-2 text-sm text-gray-600 hover:text-pink-600 transition-colors px-3 py-1 rounded-lg hover:bg-pink-50"
               >
                 <Home className="w-4 h-4" />
-                Ana Sayfa
+                Ana Sayfa 31
               </button>
             )}
           </div>
