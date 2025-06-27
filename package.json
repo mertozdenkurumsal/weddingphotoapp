@@ -1,0 +1,37 @@
+{
+  "name": "weddingphotoapp",
+  "version": "1.0.0",
+  "description": "wedding photo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wedding",
+    "photo",
+    "wedding",
+    "photo",
+    "gallery",
+    "photo",
+    "gallery",
+    "camera",
+    "cameraman",
+    "qr",
+    "qrcode",
+    "qr",
+    "code"
+  ],
+  "author": "Mert Ozden",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "dotenv": "^16.6.0",
+    "express": "^5.1.0",
+    "http-status-codes": "^2.3.0",
+    "mongoose": "^8.16.1",
+    "multer": "^2.0.1",
+    "nodemon": "^3.1.10",
+    "winston": "^3.17.0",
+    "winston-daily-rotate-file": "^5.0.0"
+  }
+}
